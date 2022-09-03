@@ -1,6 +1,6 @@
 # MOONHOLDINGS.XYZ
 
-## The Bold Portfolio Tracker For Brave Crypto Investors
+## The Portfolio App to Rule them All
 
 ### Start / continue your crypto investing journey with us.
 
