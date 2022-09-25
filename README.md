@@ -1,8 +1,8 @@
 # MOONHOLDINGS.XYZ
 
-## The Portfolio App to Rule them All
+## Web3 Portfolio Intelligence Dashboard
 
-### Start / continue your crypto investing journey with us.
+### Track. Manage. Analyze.
 
 https://moonholdings.xyz
 
